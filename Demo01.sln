@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht1", "Teht1\Teht1.csproj", "{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht1B", "Teht1B\Teht1B.csproj", "{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht2", "Teht2\Teht2.csproj", "{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht3", "Teht3\Teht3.csproj", "{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht4.1", "Teht4.1\Teht4.1.csproj", "{DFCD3AB0-133C-43F3-80F0-C1A89386605D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Debug|x64.Build.0 = Debug|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Debug|x86.Build.0 = Debug|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Release|x64.ActiveCfg = Release|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Release|x64.Build.0 = Release|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Release|x86.ActiveCfg = Release|Any CPU
+		{05C3517E-A4FC-41EE-9FB1-BAA69B422FA9}.Release|x86.Build.0 = Release|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Debug|x64.Build.0 = Debug|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Release|x64.ActiveCfg = Release|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Release|x64.Build.0 = Release|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA1A56F0-21BF-4818-945E-E2FB9F10BB6E}.Release|x86.Build.0 = Release|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Debug|x64.Build.0 = Debug|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Debug|x86.Build.0 = Debug|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Release|x64.ActiveCfg = Release|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Release|x64.Build.0 = Release|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Release|x86.ActiveCfg = Release|Any CPU
+		{2EB39AFF-1B85-4CFF-BB5E-48CE03B427D0}.Release|x86.Build.0 = Release|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Debug|x64.Build.0 = Debug|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Debug|x86.Build.0 = Debug|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Release|x64.ActiveCfg = Release|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Release|x64.Build.0 = Release|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Release|x86.ActiveCfg = Release|Any CPU
+		{24F6A8A1-CFA7-44B5-9D76-875B97A53D44}.Release|x86.Build.0 = Release|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Debug|x64.Build.0 = Debug|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Debug|x86.Build.0 = Debug|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Release|x64.ActiveCfg = Release|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Release|x64.Build.0 = Release|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Release|x86.ActiveCfg = Release|Any CPU
+		{DFCD3AB0-133C-43F3-80F0-C1A89386605D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
