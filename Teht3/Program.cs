@@ -11,6 +11,7 @@ namespace Teht3
         static void Main(string[] args)
         {
             //Give 3 numbers
+            Console.WriteLine("Give me three numbers and I sum them");
             int number1;
             Console.Write("Give number1 > ");
             number1 = int.Parse(Console.ReadLine());
@@ -20,7 +21,7 @@ namespace Teht3
             number2 = int.Parse(Console.ReadLine());
 
             int number3;
-            Console.Write("Give number > ");
+            Console.Write("Give number3 > ");
             number3 = int.Parse(Console.ReadLine());
 
             //Calculate sum and calculate keskiarvo
