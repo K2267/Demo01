@@ -14,7 +14,7 @@ namespace Teht7
             Console.Write("What year is it? >> ");
             year = int.Parse(Console.ReadLine());
 
-            if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0)
+            if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) //Voit putkittaa ehtoja
             {
                 Console.WriteLine("Leap year!");
             }
