@@ -10,6 +10,16 @@ namespace Teht9._1
     {
         static void Main(string[] args)
         {
+            int number;
+            int[] numbers;
+        
+            Console.Write("Give number > ");
+            number = int.Parse(Console.ReadLine());
+            while (number != 0) //
+            {
+                Console.Write("Give number > ");
+                number = int.Parse(Console.ReadLine());
+            }
         }
     }
 }
