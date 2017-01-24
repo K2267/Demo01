@@ -11,8 +11,12 @@ namespace teht10
         static void Main(string[] args)
         {
             int[] numbers = { 1, 2, 33, 44, 55, 68, 77, 96, 100 }; //Taulukko
-           
+
             for (int i = 0; i < numbers.Length; i++) Console.Write(numbers[i]); //Tulostaa taulukon
+            Console.WriteLine(numbers[i]);
+            if (numbers[1] % 2 == 0)
+                Console.Write("HEP");
+            else Console.Write(numbers[0]);
         }
     }
 }
