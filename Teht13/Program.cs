@@ -25,7 +25,7 @@ namespace Teht13
             {
                 sum += points[i];
             }
-            Console.WriteLine("Points for ski jumper is: {0} ",sum);
+            Console.WriteLine("Points for ski jumper are: {0} ",sum);
         }
     }
 }
